@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ResourceName">
+
+    <color name="colorPrimary">@color/color_3f51B5</color>
+    <color name="colorPrimaryDark">@color/color_303f9f</color>
+    <color name="colorAccent">@color/color_ff4081</color>
+
+    <!-- 主题色-->
+    <color name="theme_color">@color/color_0d94f2</color>
+
+    <!-- 正标题颜色-->
+    <color name="main_title_color">@color/color_333333</color>
+
+    <!-- 次标题颜色-->
+    <color name="sub_title_color">@color/color_666666</color>
+
+    <!-- 提示备注文字-->
+    <color name="note_color">@color/color_999999</color>
+
+    <!-- 文本提示-->
+    <color name="hint_color">@color/color_9fd0f7</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="color_black">#000000</color>
+    <color name="color_black_1a">#1a000000</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_0d94f2">#0d94f2</color>
+    <color name="color_333333">#333333</color>
+    <color name="color_666666">#666666</color>
+    <color name="color_999999">#999999</color>
+    <color name="color_9fd0f7">#9fd0f7</color>
+    <color name="color_f1faff">#f1faff</color>
+    <color name="color_a2d7f8">#a2d7f8</color>
+    <color name="color_2199e5">#2199e5</color>
+
+    <color name="color_c0e7ff">#c0e7ff</color>
+    <color name="color_3f51B5">#3f51B5</color>
+    <color name="color_303f9f">#303f9f</color>
+    <color name="color_ff4081">#ff4081</color>
+    <color name="color_2b2b2b">#2b2b2b</color>
+    <color name="color_f0efef">#f0efef</color>
+</resources>

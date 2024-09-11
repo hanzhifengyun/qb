@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ResourceName">
+
+
+    <style name="Text_Default">
+        <item name="android:textColor">@color/main_title_color</item>
+        <item name="android:textSize">@dimen/text_size_14</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="Text_color_main" parent="Text_Default">
+        <item name="android:textColor">@color/main_title_color</item>
+    </style>
+
+
+
+
+    <style name="Text_color_main_14sp" parent="Text_color_main">
+        <item name="android:textSize">@dimen/text_size_14</item>
+    </style>
+
+
+    <style name="Text_color_white" parent="Text_Default">
+        <item name="android:textColor">@color/color_white</item>
+    </style>
+
+    <style name="Text_color_white_12sp" parent="Text_color_white">
+        <item name="android:textSize">@dimen/text_size_12</item>
+    </style>
+</resources>

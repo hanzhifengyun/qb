@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"  tools:ignore="ResourceName">
+    <string name="loading_hard">努力加载中…</string>
+    <string name="login_username_hint">请输入用户名</string>
+    <string name="login_password_hint">请输入密码</string>
+    <string name="login">登录</string>
+    <string name="common_network_error">网络错误</string>
+    <string name="common_error_dec">网络开小差了。。。</string>
+    <string name="common_empty_dec">什么都没有哦</string>
+    <string name="retry">重试</string>
+    <string name="empty_string" />
+</resources>
